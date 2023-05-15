@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis University studying Computer Science (B.S) and Applied Mathematics, advised by [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research interest lies in Machine Learning and Deep Learning, Graph Mining, Data-Efficient AI. Recently, I focus on enhancing model fairness, robustness and privacy. For my CV, please refer CV.
+Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis University studying Computer Science (B.S) and Applied Mathematics, advised by [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research interest lies in Machine Learning and Deep Learning, Graph Mining, Data-Efficient AI. Recently, I focus on enhancing model fairness, robustness and privacy. For my CV, please refer [CV](/cv/).
 
 News
 ======
