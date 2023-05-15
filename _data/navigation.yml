@@ -7,10 +7,10 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /pages/cv.md/
+    url: /cv/
     
   - title: "Services"
-    url: /cv/
+    url: /services/
    
   - title: "Personal"
     url: /cv/
