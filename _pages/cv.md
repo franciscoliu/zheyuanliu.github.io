@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-CV
-=====
 Here is my [CV](/files/Zheyuan_Liu_CV.pdf).
+
 <!-- Education
 ======
 * B.S. in  2012
