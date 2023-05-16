@@ -6,6 +6,6 @@ excerpt: 'Yifei Wang, Hao (Michael) Peng, Long Sha, **Zheyuan Liu**, Pengyu Hong
 date: 2021-01-06
 venue: 'Journal 1'
 medRxiv [[paper](http://franciscoliu.github.io/files/zheyuanliu_medRxiv.pdf) | [cite](https://scholar.googleusercontent.com/scholar.bib?q=info:x0uDut6GB1EJ:scholar.google.com/&output=citation&scisdr=Cm3UcK_tEPbHxeyeE5g:AGlGAw8AAAAAZGOYC5hAgV4AcPnQqjE8i9Mv1Dg&scisig=AGlGAw8AAAAAZGOYC3eg-WjlyHwSFnFNNvT83a0&scisf=4&ct=citation&cd=-1&hl=en)]
-# paperurl: 'http://franciscoliu.github.io/files/zheyuanliu_medRxiv.pdf'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-# [Download paper here](http://franciscoliu.github.io/files/zheyuanliu_medRxiv.pdf)
+paperurl: 'http://franciscoliu.github.io/files/zheyuanliu_medRxiv.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+[Download paper here](http://franciscoliu.github.io/files/zheyuanliu_medRxiv.pdf)
