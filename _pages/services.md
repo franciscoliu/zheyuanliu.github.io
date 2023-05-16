@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am open to peer revie and organizing chances in the field of machine learning.
+I am open to peer review and organizing chances in the field of machine learning.
 
 Journal Reviewer
 =====
