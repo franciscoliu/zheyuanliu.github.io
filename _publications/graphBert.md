@@ -3,13 +3,8 @@ title: "GraphBERT: Bridging Graph and Text for Malicious Behavior Detection on S
 collection: publications
 permalink: /publication/graphBert
 excerpt: 'Author: Jiele Wu; Chunhui Zhang; Zheyuan Liu; Erchi Zhang; Steven Wilson; Chuxu Zhang'
-date: 2015-10-01
+date: 2022-11-28
 venue: 'ICDM'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://aragakiyuiii.github.io/data/GraphBERT-%20Bridging%20Graph%20and%20Text%20for%20Malicious%20Behavior%20Detection%20on%20Social%20Media-ICDM22.pdf'
+citation: 'https://scholar.googleusercontent.com/scholar.bib?q=info:hvtXsSPxIr4J:scholar.google.com/&output=citation&scisdr=Cm3rM03UEPbHxesOxGo:AGlGAw8AAAAAZGQI3GqSs2gGVEzkrUXIhKB59tw&scisig=AGlGAw8AAAAAZGQI3F3nzqSX_hQF7eKOhz3oGjM&scisf=4&ct=citation&cd=-1&hl=en'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
