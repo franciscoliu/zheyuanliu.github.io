@@ -12,7 +12,7 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a fourth year student at Brandeis Univ
 
 News
 ======
-* I will be joining [University of Notre dame](https://www.nd.edu/) for PhD. I am fortunated to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Looking forward to start my new journey!
+* I will be start my 1srt year Phd at [University of Notre dame](https://www.nd.edu/) in 2023 Fall. I am fortunated to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/). Looking forward to start my new journey!
 * 2023/1/25 Our paper was selected for publication as a regular paper for [WWW](https://www2023.thewebconf.org/) conference!
 * 2023/1/21 Our paper was selected for publication as a regular paper for [ICLR 2023](https://iclr.cc/)!
 
