@@ -2,7 +2,7 @@
 title: "State-level COVID-19 Trend Forecasting Using Mobility And Policy Data"
 collection: publications
 permalink: /publication/medRxiv
-excerpt: 'Author: Yifei Wang, Hao (Michael) Peng, Long Sha, *Zheyuan Liu*, Pengyu Hong'
+excerpt: 'Author: Yifei Wang, Hao (Michael) Peng, Long Sha, **Zheyuan Liu**, Pengyu Hong'
 date: 2021-01-06
 venue: 'medRxiv'
 paperurl: ''
