@@ -2,7 +2,7 @@
 title: "GraphBERT: Bridging Graph and Text for Malicious Behavior Detection on Social Media"
 collection: publications
 permalink: /publication/graphBert
-excerpt: 'Author: Jiele Wu; Chunhui Zhang; *Zheyuan Liu*; Erchi Zhang; Steven Wilson; Chuxu Zhang'
+excerpt: 'Author: Jiele Wu; Chunhui Zhang; **Zheyuan Liu**; Erchi Zhang; Steven Wilson; Chuxu Zhang'
 date: 2022-11-28
 venue: 'ICDM'
 paperurl: ''
