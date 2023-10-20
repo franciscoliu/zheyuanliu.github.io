@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [here](/files/Zheyuan_Liu_CV.pdf).
+Download my CV [here](/files/ZheyuanLiu_CV.pdf).
 
 <!-- Education
 ======
