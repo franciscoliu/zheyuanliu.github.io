@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying at the University of Notre Dame, advised by [Prof. Meng Jiang](http://www.meng-jiang.com). My research interest lies in Machine Learning and Deep Learning, Graph Mining, Data-Efficient AI. Currently, I am exploring machine Unlearning and diffential privacy. For my CV, please refer [CV](/cv/).
+Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying at the University of Notre Dame, advised by [Prof. Meng Jiang](http://www.meng-jiang.com). My research interest lies in Privacy Preserving Machine Learning (PPML), Graph Mining, Data-Efficient AI. Currently, I am exploring machine Unlearning and differential privacy. For my CV, please refer [CV](/cv/).
 
 News
 ======
@@ -17,7 +17,7 @@ News
 
 Open to Collaboration
 =====
-Free to email me if you would like to work together!
+I am actively looking for Internship opportunity in PPML, feel free to email me if you think I am a good match!
 
 
 <!-- Getting started
