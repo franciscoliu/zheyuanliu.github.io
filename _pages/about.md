@@ -12,8 +12,9 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying a
 
 News
 ======
+* 2024/02/18 New Preprint avilable about Graph LLM: [Can we soft prompt LLMs for graph learning tasks?](https://arxiv.org/abs/2402.10359)
+* 2024/02/15 New Preprint avilable about LLM Unlearning: [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)
 * 2024/01/23 Our paper has been accepted by [WWW](https://www2024.thewebconf.org/) conference 2024, arxiv version available [here](https://arxiv.org/abs/2310.18574)!
-* 2023/10/28 New preprint avilable: [Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable Machine Unlearning](https://arxiv.org/abs/2310.18574)
 * 2023/1/25 Our paper was selected for publication as a regular paper for [WWW](https://www2023.thewebconf.org/) conference!
 * 2023/1/21 Our paper was selected for publication as a regular paper for [ICLR 2023](https://iclr.cc/)!
 
