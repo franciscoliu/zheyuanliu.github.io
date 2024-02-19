@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying at the University of Notre Dame, advised by [Prof. Meng Jiang](http://www.meng-jiang.com). Before that, I received B.S in Computer Science and Applied Math at Brandeis University. My research interest lies in Privacy Preserving Machine Learning (PPML), Graph Mining, Data-Efficient AI. Currently, I am exploring machine Unlearning and differential privacy. For my CV, please refer [CV](/cv/). 
+Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying at the University of Notre Dame, advised by [Prof. Meng Jiang](http://www.meng-jiang.com). Before that, I received B.S in Computer Science and Applied Math at Brandeis University. My research interest lies in AI Privacy, Privacy Preserving Machine Learning (PPML), Trustworthy AI. Currently, I am exploring machine Unlearning and LLM Security. For my CV, please refer [CV](/cv/). 
 
 News
 ======
