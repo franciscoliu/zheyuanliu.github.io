@@ -8,20 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying at the University of Notre Dame, advised by [Prof. Meng Jiang](http://www.meng-jiang.com). Before that, I received B.S in Computer Science and Applied Math at Brandeis University. My research interest lies in AI Privacy, Privacy Preserving Machine Learning (PPML), Trustworthy AI. Currently, I am exploring machine Unlearning and LLM Security. For my CV, please refer [CV](/cv/). 
+Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying at the University of Notre Dame, advised by [Prof. Meng Jiang](http://www.meng-jiang.com). Before that, I received B.S in Computer Science and Applied Math at Brandeis University. My research interest lies in GenAI Safety, AI Privacy, Trustworthy AI. Currently, I am exploring machine Unlearning and LLM Security. For my CV, please refer [CV](/cv/). 
 
 News
 ======
+* 2024/04 I will be joining in Amazon as an Applied Scientist Intern this summer (2024)! See you in Seattle!
 * 2024/03/04 Our paper has been accepted by [WWW](https://www2024.thewebconf.org/) conference 2024 short paper track! Arxiv version available [here](https://arxiv.org/abs/2402.10359)!
 * 2024/02/18 New Preprint avilable about Graph LLM: [Can we soft prompt LLMs for graph learning tasks?](https://arxiv.org/abs/2402.10359)
 * 2024/02/15 New Preprint avilable about LLM Unlearning: [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)
 * 2024/01/23 Our paper has been accepted by [WWW](https://www2024.thewebconf.org/) conference 2024, arxiv version available [here](https://arxiv.org/abs/2310.18574)!
-* 2023/1/25 Our paper was selected for publication as a regular paper for [WWW](https://www2023.thewebconf.org/) conference!
-* 2023/1/21 Our paper was selected for publication as a regular paper for [ICLR 2023](https://iclr.cc/)!
 
 Open to Collaboration
 =====
-I am actively looking for Internship opportunity in PPML, feel free to email me if you think I am a good match!
+I am actively looking for Internship/collaboration opportunity in field of Trustworthy AI and the great application of LLM, feel free to email me if you think I am a good match!
 
 
 <!-- Getting started
