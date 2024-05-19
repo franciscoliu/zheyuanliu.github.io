@@ -12,10 +12,9 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying a
 
 News
 ======
+* 2024/05/15 Our paper [SKU](https://arxiv.org/abs/2402.10058) has been accepted by ACL Findings 2024! Code avilable [here](https://github.com/franciscoliu/SKU)
 * 2024/04 I will join Amazon as an Applied Scientist Intern this summer (2024)! See you in Seattle!
 * 2024/03/04 Our paper has been accepted by [WWW](https://www2024.thewebconf.org/) conference 2024 short paper track! Arxiv version available [here](https://arxiv.org/abs/2402.10359)!
-* 2024/02/18 New Preprint avilable about Graph LLM: [Can we soft prompt LLMs for graph learning tasks?](https://arxiv.org/abs/2402.10359)
-* 2024/02/15 New Preprint avilable about LLM Unlearning: [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/abs/2402.10058)
 * 2024/01/23 Our paper has been accepted by [WWW](https://www2024.thewebconf.org/) conference 2024, arxiv version available [here](https://arxiv.org/abs/2310.18574)!
 
 Open to Collaboration
