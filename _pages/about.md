@@ -12,6 +12,7 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a first year CS PhD Student studying a
 
 News
 ======
+* 2024/07/30 Our new survey paper about [Generative AI Machine Unlearning](https://arxiv.org/abs/2407.20516) is now available on arxiv! Reading list [here](https://github.com/franciscoliu/Awesome-GenAI-Unlearning/tree/main)!
 * 2024/05/15 Our paper [SKU](https://arxiv.org/abs/2402.10058) has been accepted by ACL Findings 2024! Code avilable [here](https://github.com/franciscoliu/SKU)
 * 2024/04 I will join Amazon as an Applied Scientist Intern this summer (2024)! See you in Seattle!
 * 2024/03/04 Our paper has been accepted by [WWW](https://www2024.thewebconf.org/) conference 2024 short paper track! Arxiv version available [here](https://arxiv.org/abs/2402.10359)!
