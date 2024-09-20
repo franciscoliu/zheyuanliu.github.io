@@ -12,6 +12,7 @@ Hi, I am Zheyuan (Frank) Liu (刘哲源), a second year CS PhD Student studying 
 
 News
 ======
+* 2024/09/19 Two paper got accepted by EMNLP main, congrats to all collaberators! Link here: [work1](https://arxiv.org/abs/2402.04401), [work2](https://arxiv.org/abs/2406.10471), see you at Miami!
 * 2024/07/30 Our new survey paper about [Generative AI Machine Unlearning](https://arxiv.org/abs/2407.20516) is now available on arxiv! Reading list [here](https://github.com/franciscoliu/Awesome-GenAI-Unlearning/tree/main)!
 * 2024/05/15 Our paper [SKU](https://arxiv.org/abs/2402.10058) has been accepted by ACL Findings 2024! Code avilable [here](https://github.com/franciscoliu/SKU)
 * 2024/04 I will join Amazon as an Applied Scientist Intern this summer (2024)! See you in Seattle!
